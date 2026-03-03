@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-    cout << "世界并不好" << endl;
+    cout << "冲突2" << endl;
     return 0;
 }
