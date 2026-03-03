@@ -2,9 +2,6 @@
 using namespace std;
 int main()
 {
-
-    cout << "来个冲突" << endl;
-
-
+    cout << "冲突2" << endl;
     return 0;
 }
